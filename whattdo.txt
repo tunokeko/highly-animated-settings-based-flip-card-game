@@ -1,0 +1,10 @@
+FLIPPING CARD
+it will rotate in y axis with an animation.When it is between 90 and 270 the image will be changed to Show the backside.
+
+CARD MODEL
+I will have a static image list and when initializing cards i will shuffle it and assign it to my current list
+
+GAME SHAPE
+when any element in the game shape is null,i will reverse its card animation back to 0 and if it has an image i will forward it to 1
+
+If there are 2 equal images reverse them
